@@ -4,7 +4,7 @@ changing the numbers in the print statement.
 always remember though, all 4 numbers are
 important, especially the last one.
 """
-print (" Search clock calculator TM")
+print (" Search clock calculator ")
 
 print ("*=X, /=divided by, +=+, ===, -=-.")
 
